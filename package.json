@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+     "start": "node index.js",
+    "create-user": "node test/createUser.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
